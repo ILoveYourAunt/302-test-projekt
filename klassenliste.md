@@ -9,7 +9,7 @@
 |Erik    |        |
 |Halid   |        |
 |Hezekiah|        |
-|James   |        |
+|James   |     x   |
 |Jonas   |        |
 |Josiah  |        |
 |Julian  |        |
